@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Ibtisam</h1>
 <h3 align="center">A passionate cyber security learner from Pakistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliibtisam904" alt="aliibtisam904" /></a> </p>
+<p align="left"> <a https://github.com/dashboard"><img src="https://github-profile-trophy.vercel.app/?username=aliibtisam1001" alt="aliibtisam1001" /></a> </p>
 
 - 🔭 I’m currently working on **C++,python,networking,SIEM tools like splunk.**
 
