@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Sql Injection,networking,SIEM integration.**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/aliibtisam1001](www.linkedin.com/in/aliibtisam1001)
+- 👨‍💻 All of my projects are available at [https://github.com/projects)
 
 - ⚡ Fun fact **introvert and extrovert at the same time**
 
