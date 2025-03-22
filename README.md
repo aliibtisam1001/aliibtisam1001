@@ -4,7 +4,8 @@
 <br>
 
 ## 🌐 Socials:
-[![Instagram](https://www.instagram.com/aliibtisamrao/?igsh=d2lvajQ1ZTZxODRs#) ![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white](https://www.linkedin.com/in/aliibtisam1001/)) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@aliibtisam1001)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aliibtisamrao) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/@aliibtisam1001)[! [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@aliibtisam1001) 
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aliibtisam1001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
