@@ -4,7 +4,7 @@
 <br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%23E4405F.svg?logo=Linkedin&logoColor=white)](https://linkedin.com/aliibtisam1001)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aliibtisamrao) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@aliibtisam1001) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%23E4405F.svg?logo=Linkedin&logoColor=Blue)](https://linkedin.com/aliibtisam1001) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aliibtisamrao) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@aliibtisam1001) 
 
 
 # 📊 GitHub Stats:
