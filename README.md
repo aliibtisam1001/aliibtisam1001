@@ -11,7 +11,10 @@
 
 
 ## 🌐 Socials:
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aliibtisamrao) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@aliibtisam1001) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/aliibtisamrao)
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/aliibtisam1001)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliibtisam1001)
+
 
 
 # 📊 GitHub Stats:
