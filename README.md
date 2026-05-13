@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Ali Ibtisam<br>👀 I’m interested in Data Science, Machine Learning, and Artificial Intelligence, with a focus on extracting insights from data.<br>💻 I work with Python and am exploring data analysis, statistics, and machine learning fundamentals.<br>🌱 I’m currently learning data preprocessing, visualization, and introductory ML algorithms through hands-on practice.<br>💞 I’m looking to collaborate on data science, machine learning, and AI-based projects.<br>📫 How to reach me:<br>📧 aliibtisam1001@gmail.com
+👋 Hi, I’m @Ali Ibtisam (GeeksforGeeks Campus Ambassador At Universiti Antarabangsa Albukhary, Malaysia) <br>👀 I’m interested in Data Science, Machine Learning, and Artificial Intelligence, with a focus on extracting insights from data.<br>💻 I work with Python and am exploring data analysis, statistics, and machine learning fundamentals.<br>🌱 I’m currently learning data preprocessing, visualization, and introductory ML algorithms through hands-on practice.<br> 💞 I’m looking to collaborate on data science, machine learning, and AI-based projects.<br>📫 How to reach me:<br>📧 aliibtisam1001@gmail.com
 
 
 ## 🌐 Socials:
