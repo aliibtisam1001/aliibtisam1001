@@ -1,19 +1,25 @@
 <div align="center">
 
-<img src="./avatar.png" width="240" />
+<img src="./avatar.png" width="230" />
 
 # 👋 Hi, I'm Ali Ibtisam
 
-### 🧠 Data Scientist | Machine Learning Engineer | AI Explorer
+<h3>
+Data Scientist | Machine Learning Engineer | AI Developer
+</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=Data+Science+Undergraduate;Machine+Learning+Engineer;AI+%26+Business+Intelligence;Building+Intelligent+Systems">
 
-<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=25&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;AI+%26+Business+Intelligence+Developer;Building+Intelligent+Systems;Turning+Data+Into+Insights">
 
-<img src="https://img.shields.io/badge/Python-Data%20Science-8B5CF6?style=for-the-badge&logo=python">
-<img src="https://img.shields.io/badge/Machine%20Learning-AI-A855F7?style=for-the-badge">
-<img src="https://img.shields.io/badge/SQL-Analytics-7C3AED?style=for-the-badge&logo=postgresql">
-<img src="https://img.shields.io/badge/LLM-Generative%20AI-C026D3?style=for-the-badge">
+
+<br><br>
+
+
+<img src="https://img.shields.io/badge/Python-8B5CF6?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Machine_Learning-A855F7?style=for-the-badge">
+<img src="https://img.shields.io/badge/SQL-7C3AED?style=for-the-badge&logo=postgresql">
+<img src="https://img.shields.io/badge/Generative_AI-C026D3?style=for-the-badge">
+
 
 </div>
 
@@ -28,9 +34,8 @@ class AliIbtisam:
 
     identity = {
         "name": "Ali Ibtisam",
-        "role": "Data Science Undergraduate",
-        "location": "Malaysia 🇲🇾",
-        "status": "Open to Data Science / ML Internships"
+        "role": "Data Scientist | ML Engineer | AI Developer",
+        "location": "Malaysia 🇲🇾"
     }
 
 
@@ -45,10 +50,13 @@ class AliIbtisam:
     specialization = [
         "Machine Learning",
         "Predictive Analytics",
-        "Business Intelligence",
         "Generative AI",
+        "Business Intelligence",
         "Statistical Analysis"
     ]
+
+
+    current_status = "Open to Data Science / ML Opportunities 🚀"
 
 
     mission = """
@@ -59,7 +67,68 @@ class AliIbtisam:
 
 ---
 
-# 🚀 FEATURED AI PROJECTS
+# ⚡ WHAT I BUILD
+
+
+<div align="center">
+
+
+## 🤖 Artificial Intelligence Systems
+
+
+```
+Raw Data
+
+    ↓
+
+Machine Learning Models
+
+    ↓
+
+Predictions
+
+    ↓
+
+Business Intelligence
+
+    ↓
+
+Real World Impact
+```
+
+
+
+## 🧠 AI Powered Analytics
+
+
+```
+Human Question
+
+       ↓
+
+LLM Reasoning
+
+       ↓
+
+SQL Generation
+
+       ↓
+
+Database Intelligence
+
+       ↓
+
+Interactive Dashboard
+```
+
+
+</div>
+
+
+---
+
+
+# 🚀 FEATURED PROJECTS
 
 
 ## 🧠 DataPilot AI
@@ -67,50 +136,78 @@ class AliIbtisam:
 ### Universal AI Business Intelligence Command Center
 
 
+> An LLM-powered analytics platform that converts natural language questions into secure database insights.
+
+
+### 🔥 Architecture
+
+
 ```
-Human Question
-       ↓
-     LLM Engine
-       ↓
- Natural Language → SQL
-       ↓
- Database Analysis
-       ↓
- Interactive BI Dashboard
+User Question
+
+      ↓
+
+LLM Engine
+(LangChain + Groq)
+
+      ↓
+
+Secure SQL Generation
+
+      ↓
+
+Database Layer
+
+(PostgreSQL / MySQL / SQLite)
+
+      ↓
+
+Interactive BI Dashboard
 ```
 
 
-### ⚡ System Performance
+### 📊 Performance Metrics
+
 
 | Metric | Achievement |
 |---|---|
 | SQL Injection Protection | 34/34 attacks blocked |
-| Security Tests | 100/100 passed |
+| Security Testing | 100/100 passed |
 | Cached Query Latency | <50ms |
-| Database Support | PostgreSQL / MySQL / SQLite |
-| Dashboard | Plotly Interactive BI |
+| Schema Discovery | <190ms |
+| Dashboard Engine | Plotly |
 
 
-### Technology Stack
+
+### 🛠 Technology
+
 
 ```
 Python
 LangChain
-Groq LLM
+Groq
 SQL
 PostgreSQL
 MySQL
 SQLite
 Plotly
+Streamlit
 ```
 
 
 ---
 
+
 # 📊 Customer Churn Prediction AI
 
 
-Machine learning system that predicts customer churn and explains model decisions.
+### Explainable Machine Learning System
+
+
+A machine learning pipeline that predicts customer churn while explaining model decisions.
+
+
+### 🧬 ML Pipeline
 
 
 ```
@@ -119,6 +216,10 @@ Customer Data
       ↓
 
 Data Cleaning
+
+      ↓
+
+Exploratory Analysis
 
       ↓
 
@@ -138,19 +239,36 @@ Streamlit Dashboard
 ```
 
 
-### Model Results
+### Model Performance
 
 
 | Metric | Result |
 |-|-|
 | Dataset | 7,043 Customers |
+| Algorithm | XGBoost |
 | ROC-AUC | 0.88 |
 | Recall | 0.78 |
-| Model | XGBoost |
 | Explainability | SHAP |
 
 
+### Skills Applied
+
+
+```
+✔ Classification
+
+✔ Feature Engineering
+
+✔ Model Evaluation
+
+✔ Explainable AI
+
+✔ Data Visualization
+```
+
+
 ---
+
 
 # 🛒 AIU Market
 
@@ -158,25 +276,33 @@ Streamlit Dashboard
 ### Student Marketplace Platform
 
 
-A centralized marketplace built for AIU students.
+A full-stack marketplace built exclusively for AIU students.
 
 
 ```
 Frontend
-   ↓
+
+↓
+
 Next.js
 
+
 Backend
-   ↓
+
+↓
+
 Supabase + PostgreSQL
 
+
 Users
-   ↓
+
+↓
+
 Campus Marketplace
 ```
 
 
-### Launch Impact
+### 🚀 Early Impact
 
 
 ```
@@ -184,58 +310,124 @@ Campus Marketplace
 
 📦 25+ Active Listings
 
-🚀 Live Student Platform
+🌐 Live Platform
 ```
 
 
----
-
-# 🪐 TECH ORBIT
+--- # 🪐 TECH ORBIT
 
 
 <div align="center">
 
 
-## 🐍 Programming
-
-Python • SQL
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql,sqlite,git,github,vscode,docker" />
 
 
-## 🤖 Machine Learning
-
-Scikit-Learn  
-XGBoost  
-Random Forest  
-Feature Engineering  
-Model Evaluation
+<br><br>
 
 
-## 🧠 Artificial Intelligence
-
-LLM Applications  
-LangChain  
-Prompt Engineering  
-Groq
-
-
-## 📊 Analytics
-
-Power BI  
-Tableau  
-Plotly  
-Matplotlib  
-Seaborn
-
-
-## 🗄 Data Engineering
-
-PostgreSQL  
-MySQL  
-SQLite  
-API Integration
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,matlab" />
 
 
 </div>
+
+
+---
+
+## 🧠 Machine Learning Stack
+
+
+```
+Python
+
+├── Scikit-Learn
+├── XGBoost
+├── Random Forest
+├── Regression
+├── Classification
+├── Feature Engineering
+└── Cross Validation
+```
+
+
+---
+
+## 🤖 Artificial Intelligence Stack
+
+
+```
+Generative AI
+
+├── LLM Applications
+├── LangChain
+├── Prompt Engineering
+├── Groq API
+└── AI Automation
+```
+
+
+---
+
+## 📊 Analytics & Visualization
+
+
+```
+Business Intelligence
+
+├── Power BI
+├── Tableau
+├── Plotly
+├── Matplotlib
+├── Seaborn
+└── Excel
+```
+
+
+---
+
+# 🌌 BEYOND THE CODE
+
+
+<div align="center">
+
+
+| Interest | Description |
+|-|-|
+| 🤖 AI Research | Exploring intelligent systems and emerging AI technologies |
+| 📸 Photography | Capturing perspectives through visual storytelling |
+| 🌍 Travelling | Discovering cultures and new environments |
+| 📚 Continuous Learning | Constantly improving technical skills |
+| 📊 Data Visualization | Turning complex data into meaningful stories |
+
+
+</div>
+
+
+---
+
+
+# 🪪 DEVELOPER ID CARD
+
+
+```
+╭─────────────────────────────╮
+│       ALI IBTISAM           │
+├─────────────────────────────┤
+│ ROLE                        │
+│ Data Scientist              │
+│ Machine Learning Engineer   │
+│                             │
+│ EDUCATION                   │
+│ Bachelor Data Science       │
+│ AIU Malaysia 🇲🇾             │
+│                             │
+│ CGPA                        │
+│ 3.84 / 4.0                  │
+│                             │
+│ STATUS                      │
+│ Open For Opportunities 🚀   │
+╰─────────────────────────────╯
+```
 
 
 ---
@@ -245,10 +437,23 @@ API Integration
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aliibtisam1001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=aliibtisam1001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=C026D3">
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aliibtisam1001&theme=tokyonight&hide_border=true&background=0D1117" width="48%">
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aliibtisam1001&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7">
+
+
+</div>
+
+
+<br>
+
+
+<div align="center">
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aliibtisam1001&theme=tokyo-night&hide_border=true&bg_color=0D1117">
 
 
 </div>
@@ -261,7 +466,9 @@ API Integration
 
 <div align="center">
 
+
 <img src="https://raw.githubusercontent.com/aliibtisam1001/aliibtisam1001/output/github-contribution-grid-snake-dark.svg">
+
 
 </div>
 
@@ -275,6 +482,13 @@ API Integration
 
 ### GeeksforGeeks | Remote
 
+```
+Jan 2026 - Jun 2026
+```
+
+
+Achievements:
+
 
 ```
 ✓ Recruited 60+ students
@@ -282,7 +496,33 @@ API Integration
 ✓ Increased weekly active users by 35%
 
 ✓ Conducted technical sessions
+
+✓ Promoted Data Science & Programming Communities
 ```
+
+
+---
+
+# 🎓 EDUCATION
+
+
+## Albukhary International University 🇲🇾
+
+
+```
+Bachelor of Data Science (Honours)
+
+Oct 2025 → Expected 2028
+
+
+CGPA:
+3.84 / 4.0
+
+
+Scholarship:
+Fully Funded
+```
+
 
 ---
 
@@ -291,10 +531,12 @@ API Integration
 
 ```
 🐍 Python Data Associate
+
    DataCamp
 
 
 🤖 Armenia LLM Summer School
+
    Nebius AI
 ```
 
@@ -306,8 +548,10 @@ API Integration
 
 ```
 🏆 2nd Place
+
 FAST Problem Solving Challenge
-2023
+
+October 2023
 ```
 
 
@@ -319,23 +563,30 @@ FAST Problem Solving Challenge
 <div align="center">
 
 
+<a href="https://aliibtisam.vercel.app">
+
+<img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white">
+
+</a>
+
+
 <a href="mailto:aliibtisam1001@gmail.com">
 
-<img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Email-C026D3?style=for-the-badge&logo=gmail&logoColor=white">
 
 </a>
 
 
 <a href="https://linkedin.com/in/aliibtisam1001">
 
-<img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white">
 
 </a>
 
 
 <a href="https://github.com/aliibtisam1001">
 
-<img src="https://img.shields.io/badge/GitHub-C026D3?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white">
 
 </a>
 
@@ -345,7 +596,14 @@ FAST Problem Solving Challenge
 
 ---
 
+
 <div align="center">
+
+
+<img src="https://komarev.com/ghpvc/?username=aliibtisam1001&label=Profile%20Views&color=A855F7&style=for-the-badge">
+
+
+<br><br>
 
 
 ### "Data is raw intelligence. AI is how we refine it."
