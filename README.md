@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=240&section=header&text=Ali%20Ibtisam&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Scientist%20%C2%B7%20ML%20Engineer%20%C2%B7%20AI%20Developer&descSize=20&descAlignY=58" width="100%" alt="header"/>
 
-<img src="./avatar.png" width="150" alt="Ali Ibtisam"/>
+<p align="center"><img src="./avatar.png" width="160" alt="Ali Ibtisam"/></p>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=720&height=50&lines=Machine+Learning+Engineer;Generative+AI+%26+LLM+Developer;Business+Intelligence+Builder;Turning+Data+Into+Intelligent+Decisions" alt="Typing animation"/>
@@ -12,7 +12,7 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=aliibtisam1001&label=Profile%20Views&color=a855f7&style=for-the-badge" alt="Profile views"/>
-<img src="https://img.shields.io/badge/Scholarship-FULL-8B5CF6?style=for-the-badge" alt="Scholarship"/>
+<img src="https://img.shields.io/badge/Scholarship-Recipient-8B5CF6?style=for-the-badge" alt="Scholarship"/>
 <img src="https://img.shields.io/badge/Based%20in-Malaysia%20%F0%9F%87%B2%F0%9F%87%BE-7C3AED?style=for-the-badge" alt="Malaysia"/>
 
 <br/><br/>
@@ -32,7 +32,7 @@
 <tr>
 <td width="55%" valign="top">
 
-I'm a **Data Science student at Albukhary International University 🇲🇾**, studying on a full scholarship.
+I'm a **Data Science student at Albukhary International University 🇲🇾**, studying on a scholarship.
 
 I build systems where **machine learning**, **generative AI**, and **business intelligence** meet, with a focus on models that are accurate, explainable, and secure.
 
@@ -80,17 +80,21 @@ class AliIbtisam:
 
 Ask questions in plain English; get validated SQL, results, and a BI dashboard.
 
+```mermaid
+flowchart LR
+    A[💬 Natural Language] --> B[🤖 LLM]
+    B --> C[🛡️ Secure SQL Validation]
+    C --> D[(🗄️ Database)]
+    D --> E[📊 BI Dashboard]
+    style A fill:#A855F7,color:#fff,stroke:none
+    style B fill:#8B5CF6,color:#fff,stroke:none
+    style C fill:#C026D3,color:#fff,stroke:none
+    style D fill:#7C3AED,color:#fff,stroke:none
+    style E fill:#A855F7,color:#fff,stroke:none
+```
+
 <div align="center">
 
-<img height="46" src="https://img.shields.io/badge/01-%F0%9F%92%AC%20Natural%20Language-A855F7?style=for-the-badge&labelColor=1f1f2e" alt="Natural Language"/>
-<img height="46" src="https://img.shields.io/badge/02-%F0%9F%A4%96%20LLM-8B5CF6?style=for-the-badge&labelColor=1f1f2e" alt="LLM"/>
-<img height="46" src="https://img.shields.io/badge/03-%F0%9F%94%92%20Secure%20SQL-C026D3?style=for-the-badge&labelColor=1f1f2e" alt="Secure SQL"/>
-<img height="46" src="https://img.shields.io/badge/04-%F0%9F%92%BE%20Database-7C3AED?style=for-the-badge&labelColor=1f1f2e" alt="Database"/>
-<img height="46" src="https://img.shields.io/badge/05-%F0%9F%93%8A%20BI%20Dashboard-D946EF?style=for-the-badge&labelColor=1f1f2e" alt="BI Dashboard"/>
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=4&section=header" width="75%" alt=""/>
-
-<br/><br/>
 
 <img src="https://img.shields.io/badge/Security%20Tests-100%2F100-22c55e?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SQL%20Attacks%20Blocked-34%2F34-ef4444?style=for-the-badge"/>
@@ -117,17 +121,21 @@ Ask questions in plain English; get validated SQL, results, and a BI dashboard.
 
 Churn prediction with SHAP explainability so retention teams can see *why* each customer is at risk.
 
+```mermaid
+flowchart LR
+    A[👥 Customer Data] --> B[⚙️ Feature Engineering]
+    B --> C[🌲 XGBoost]
+    C --> D[🔍 SHAP Explainability]
+    D --> E[📈 Prediction Dashboard]
+    style A fill:#A855F7,color:#fff,stroke:none
+    style B fill:#8B5CF6,color:#fff,stroke:none
+    style C fill:#C026D3,color:#fff,stroke:none
+    style D fill:#7C3AED,color:#fff,stroke:none
+    style E fill:#A855F7,color:#fff,stroke:none
+```
+
 <div align="center">
 
-<img height="46" src="https://img.shields.io/badge/01-%F0%9F%91%A5%20Customer%20Data-A855F7?style=for-the-badge&labelColor=1f1f2e" alt="Customer Data"/>
-<img height="46" src="https://img.shields.io/badge/02-%F0%9F%94%A7%20Feature%20Engineering-8B5CF6?style=for-the-badge&labelColor=1f1f2e" alt="Feature Engineering"/>
-<img height="46" src="https://img.shields.io/badge/03-%F0%9F%8C%B2%20XGBoost-C026D3?style=for-the-badge&labelColor=1f1f2e" alt="XGBoost"/>
-<img height="46" src="https://img.shields.io/badge/04-%F0%9F%94%8D%20SHAP-7C3AED?style=for-the-badge&labelColor=1f1f2e" alt="SHAP"/>
-<img height="46" src="https://img.shields.io/badge/05-%F0%9F%93%88%20Prediction%20Dashboard-D946EF?style=for-the-badge&labelColor=1f1f2e" alt="Prediction Dashboard"/>
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=4&section=header" width="75%" alt=""/>
-
-<br/><br/>
 
 <img src="https://img.shields.io/badge/Dataset-7%2C043%20Customers-3b82f6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ROC--AUC-0.88-22c55e?style=for-the-badge"/>
