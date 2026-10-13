@@ -12,7 +12,6 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=aliibtisam1001&label=Profile%20Views&color=a855f7&style=for-the-badge" alt="Profile views"/>
-<img src="https://img.shields.io/badge/CGPA-3.84%20%2F%204.0-C026D3?style=for-the-badge&logo=googlescholar&logoColor=white" alt="CGPA"/>
 <img src="https://img.shields.io/badge/Scholarship-FULL-8B5CF6?style=for-the-badge" alt="Scholarship"/>
 <img src="https://img.shields.io/badge/Based%20in-Malaysia%20%F0%9F%87%B2%F0%9F%87%BE-7C3AED?style=for-the-badge" alt="Malaysia"/>
 
@@ -33,7 +32,7 @@
 <tr>
 <td width="55%" valign="top">
 
-I'm a **Data Science student at Albukhary International University 🇲🇾** studying on a full scholarship with a **3.84 CGPA**.
+I'm a **Data Science student at Albukhary International University 🇲🇾**, studying on a full scholarship.
 
 I build systems where **machine learning**, **generative AI**, and **business intelligence** meet, with a focus on models that are accurate, explainable, and secure.
 
@@ -60,9 +59,11 @@ class AliIbtisam:
 
 <div align="center">
 
-```
- DATA  ──▶  MACHINE LEARNING  ──▶  AI SYSTEMS  ──▶  BUSINESS INTELLIGENCE  ──▶  REAL-WORLD IMPACT
-```
+<img src="https://img.shields.io/badge/DATA-A855F7?style=for-the-badge&labelColor=1f1f2e"/>
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-8B5CF6?style=for-the-badge&labelColor=1f1f2e"/>
+<img src="https://img.shields.io/badge/AI%20SYSTEMS-C026D3?style=for-the-badge&labelColor=1f1f2e"/>
+<img src="https://img.shields.io/badge/BUSINESS%20INTELLIGENCE-7C3AED?style=for-the-badge&labelColor=1f1f2e"/>
+<img src="https://img.shields.io/badge/REAL--WORLD%20IMPACT-D946EF?style=for-the-badge&labelColor=1f1f2e"/>
 
 </div>
 
@@ -71,7 +72,7 @@ class AliIbtisam:
 <!-- ═══════════════ PROJECTS ═══════════════ -->
 ## 🚀 Featured Projects
 
-> 💡 **Click a project to expand its details.**
+> 💡 **Click a project to expand or collapse its details.**
 
 <details open>
 <summary><b>🧠 DataPilot AI: AI Business Intelligence Command Center</b></summary>
@@ -79,20 +80,17 @@ class AliIbtisam:
 
 Ask questions in plain English; get validated SQL, results, and a BI dashboard.
 
-```mermaid
-flowchart LR
-    A[💬 Natural Language] --> B[🤖 LLM]
-    B --> C[🛡️ Secure SQL Validation]
-    C --> D[(🗄️ Database)]
-    D --> E[📊 BI Dashboard]
-    style A fill:#A855F7,color:#fff,stroke:none
-    style B fill:#8B5CF6,color:#fff,stroke:none
-    style C fill:#C026D3,color:#fff,stroke:none
-    style D fill:#7C3AED,color:#fff,stroke:none
-    style E fill:#A855F7,color:#fff,stroke:none
-```
-
 <div align="center">
+
+<img height="46" src="https://img.shields.io/badge/01-%F0%9F%92%AC%20Natural%20Language-A855F7?style=for-the-badge&labelColor=1f1f2e" alt="Natural Language"/>
+<img height="46" src="https://img.shields.io/badge/02-%F0%9F%A4%96%20LLM-8B5CF6?style=for-the-badge&labelColor=1f1f2e" alt="LLM"/>
+<img height="46" src="https://img.shields.io/badge/03-%F0%9F%94%92%20Secure%20SQL-C026D3?style=for-the-badge&labelColor=1f1f2e" alt="Secure SQL"/>
+<img height="46" src="https://img.shields.io/badge/04-%F0%9F%92%BE%20Database-7C3AED?style=for-the-badge&labelColor=1f1f2e" alt="Database"/>
+<img height="46" src="https://img.shields.io/badge/05-%F0%9F%93%8A%20BI%20Dashboard-D946EF?style=for-the-badge&labelColor=1f1f2e" alt="BI Dashboard"/>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=4&section=header" width="75%" alt=""/>
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Security%20Tests-100%2F100-22c55e?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SQL%20Attacks%20Blocked-34%2F34-ef4444?style=for-the-badge"/>
@@ -105,6 +103,10 @@ flowchart LR
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
+<br/><br/>
+
+<a href="https://datapilot-ai-by-aliibtisam.streamlit.app/"><img src="https://img.shields.io/badge/%F0%9F%9A%80%20Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="DataPilot AI live demo"/></a>
+
 </div>
 
 </details>
@@ -115,25 +117,26 @@ flowchart LR
 
 Churn prediction with SHAP explainability so retention teams can see *why* each customer is at risk.
 
-```mermaid
-flowchart LR
-    A[👥 Customer Data] --> B[⚙️ Feature Engineering]
-    B --> C[🌲 XGBoost]
-    C --> D[🔍 SHAP Explainability]
-    D --> E[📈 Prediction Dashboard]
-    style A fill:#A855F7,color:#fff,stroke:none
-    style B fill:#8B5CF6,color:#fff,stroke:none
-    style C fill:#C026D3,color:#fff,stroke:none
-    style D fill:#7C3AED,color:#fff,stroke:none
-    style E fill:#A855F7,color:#fff,stroke:none
-```
-
 <div align="center">
+
+<img height="46" src="https://img.shields.io/badge/01-%F0%9F%91%A5%20Customer%20Data-A855F7?style=for-the-badge&labelColor=1f1f2e" alt="Customer Data"/>
+<img height="46" src="https://img.shields.io/badge/02-%F0%9F%94%A7%20Feature%20Engineering-8B5CF6?style=for-the-badge&labelColor=1f1f2e" alt="Feature Engineering"/>
+<img height="46" src="https://img.shields.io/badge/03-%F0%9F%8C%B2%20XGBoost-C026D3?style=for-the-badge&labelColor=1f1f2e" alt="XGBoost"/>
+<img height="46" src="https://img.shields.io/badge/04-%F0%9F%94%8D%20SHAP-7C3AED?style=for-the-badge&labelColor=1f1f2e" alt="SHAP"/>
+<img height="46" src="https://img.shields.io/badge/05-%F0%9F%93%88%20Prediction%20Dashboard-D946EF?style=for-the-badge&labelColor=1f1f2e" alt="Prediction Dashboard"/>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=4&section=header" width="75%" alt=""/>
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Dataset-7%2C043%20Customers-3b82f6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ROC--AUC-0.88-22c55e?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Recall-0.78-f59e0b?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Model-XGBoost-A855F7?style=for-the-badge"/>
+
+<br/><br/>
+
+<a href="https://customer-churn-prediction-by-ali-ibtisam.streamlit.app/"><img src="https://img.shields.io/badge/%F0%9F%9A%80%20Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Churn prediction live demo"/></a>
 
 </div>
 
@@ -156,6 +159,10 @@ A live full-stack marketplace built for the university community.
 <img src="https://img.shields.io/badge/%F0%9F%91%A5%20Users-70%2B-A855F7?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/%F0%9F%93%A6%20Listings-25%2B-C026D3?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Status-Live-22c55e?style=for-the-badge"/>
+
+<br/><br/>
+
+<a href="https://aiumarket.com/"><img src="https://img.shields.io/badge/%F0%9F%9A%80%20Visit%20Site-3ECF8E?style=for-the-badge&logo=vercel&logoColor=white" alt="AIU Market live site"/></a>
 
 </div>
 
@@ -210,17 +217,28 @@ A live full-stack marketplace built for the university community.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliibtisam1001&theme=radical&hide_border=true&background=0d1117" alt="GitHub streak"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=aliibtisam1001&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aliibtisam1001&theme=react-dark&hide_border=true&area=true&color=A855F7&line=C026D3&point=ffffff" width="100%" alt="Activity graph"/>
 
 </div>
 
-### 🐍 Contribution Snake
+## 🐍 Contribution Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aliibtisam1001/aliibtisam1001/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
+<sub>Each square is one day of contributions. The snake eats your commits: darker purple means more activity.</sub>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/aliibtisam1001/aliibtisam1001/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake graph"/>
+
+<br/>
+
+<sub>Less</sub>
+<img src="https://img.shields.io/badge/%20-161b22?style=flat-square"/>
+<img src="https://img.shields.io/badge/%20-4c1d95?style=flat-square"/>
+<img src="https://img.shields.io/badge/%20-7c3aed?style=flat-square"/>
+<img src="https://img.shields.io/badge/%20-a855f7?style=flat-square"/>
+<img src="https://img.shields.io/badge/%20-d8b4fe?style=flat-square"/>
+<sub>More</sub>
 
 </div>
 
