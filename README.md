@@ -1,138 +1,284 @@
+<!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="./avatar.png" width="160" alt="Ali Ibtisam" style="border-radius:50%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=240&section=header&text=Ali%20Ibtisam&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Scientist%20%C2%B7%20ML%20Engineer%20%C2%B7%20AI%20Developer&descSize=20&descAlignY=58" width="100%" alt="header"/>
 
-# Ali Ibtisam
+<img src="./avatar.png" width="150" alt="Ali Ibtisam"/>
 
-**Data Scientist · Machine Learning Engineer · AI Developer**
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=720&height=50&lines=Machine+Learning+Engineer;Generative+AI+%26+LLM+Developer;Business+Intelligence+Builder;Turning+Data+Into+Intelligent+Decisions" alt="Typing animation"/>
+</a>
 
-Building machine learning systems and AI-driven analytics that turn data into decisions.
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-aliibtisam.vercel.app-111827?style=flat-square&logo=vercel&logoColor=white)](https://aliibtisam.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aliibtisam1001-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aliibtisam1001)
-[![Email](https://img.shields.io/badge/Email-aliibtisam1001%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aliibtisam1001@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=aliibtisam1001&label=Profile%20Views&color=a855f7&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/badge/CGPA-3.84%20%2F%204.0-C026D3?style=for-the-badge&logo=googlescholar&logoColor=white" alt="CGPA"/>
+<img src="https://img.shields.io/badge/Scholarship-FULL-8B5CF6?style=for-the-badge" alt="Scholarship"/>
+<img src="https://img.shields.io/badge/Based%20in-Malaysia%20%F0%9F%87%B2%F0%9F%87%BE-7C3AED?style=for-the-badge" alt="Malaysia"/>
+
+<br/><br/>
+
+<a href="https://aliibtisam.vercel.app"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/aliibtisam1001"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:aliibtisam1001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-## About
+<!-- ═══════════════ ABOUT ═══════════════ -->
+## 🧬 About Me
 
-I am a Data Science student at **Albukhary International University (Malaysia)** with a **CGPA of 3.84 / 4.0**, studying on a full scholarship. My work sits at the intersection of machine learning, generative AI, and business intelligence, with a focus on systems that are accurate, explainable, and secure.
+<table>
+<tr>
+<td width="55%" valign="top">
 
-**Focus areas**
+I'm a **Data Science student at Albukhary International University 🇲🇾** studying on a full scholarship with a **3.84 CGPA**.
 
-- Machine Learning and Predictive Analytics
-- Generative AI and LLM-powered applications
-- Business Intelligence and Data Visualization
-- Full-stack data products (from model to dashboard)
+I build systems where **machine learning**, **generative AI**, and **business intelligence** meet, with a focus on models that are accurate, explainable, and secure.
 
----
+> 🎯 **Mission:** Turning data into intelligent decisions.
 
-## Featured Projects
+</td>
+<td width="45%" valign="top">
 
-### DataPilot AI: AI Business Intelligence Command Center
+```python
+class AliIbtisam:
+    role = "Data Scientist | ML Engineer"
+    focus = [
+        "Machine Learning",
+        "Generative AI",
+        "Business Intelligence",
+        "Predictive Analytics",
+    ]
+    currently = "Building AI-powered BI tools"
+```
 
-A natural-language analytics platform that lets users query databases in plain English. User questions are translated by an LLM into SQL, validated through a security layer, executed, and returned as BI visualizations.
-
-**Pipeline:** Natural language → LLM → Secure SQL validation → Database → BI dashboard
-
-| Metric | Result |
-|---|---|
-| Security test suite | 100 / 100 passed |
-| SQL injection attacks blocked | 34 / 34 |
-| Query latency | < 50 ms |
-| Stack | LangChain, Groq, SQL |
-
----
-
-### Customer Churn Intelligence
-
-An end-to-end churn prediction system with model explainability, giving retention teams clear drivers behind each prediction.
-
-**Pipeline:** Customer data → Feature engineering → XGBoost → SHAP explainability → Prediction dashboard
-
-| Metric | Result |
-|---|---|
-| Dataset | 7,043 customers |
-| ROC-AUC | 0.88 |
-| Recall | 0.78 |
-| Model | XGBoost |
-
----
-
-### AIU Market: Student Marketplace Platform
-
-A live, full-stack marketplace built for the university community.
-
-| Detail | Info |
-|---|---|
-| Stack | Next.js, Supabase, PostgreSQL |
-| Active users | 70+ |
-| Listings | 25+ |
-| Status | Live |
-
----
-
-## Technical Skills
-
-| Category | Technologies |
-|---|---|
-| **Languages** | Python, SQL |
-| **Machine Learning** | Scikit-Learn, XGBoost, Random Forest, TensorFlow, PyTorch, SHAP |
-| **Generative AI** | LangChain, Groq, LLM application development |
-| **Databases** | PostgreSQL, MySQL, SQLite, Supabase |
-| **Analytics & BI** | Power BI, Tableau, Plotly, Matplotlib, Seaborn |
-| **Apps & Tooling** | Streamlit, Next.js, Git, GitHub, Docker, VS Code |
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,postgres,mysql,sqlite,tensorflow,pytorch,docker,git,github,vscode" alt="Tech stack icons"/>
+```
+ DATA  ──▶  MACHINE LEARNING  ──▶  AI SYSTEMS  ──▶  BUSINESS INTELLIGENCE  ──▶  REAL-WORLD IMPACT
+```
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-## Experience
+<!-- ═══════════════ PROJECTS ═══════════════ -->
+## 🚀 Featured Projects
 
-### GeeksforGeeks Campus Ambassador
+> 💡 **Click a project to expand its details.**
 
-- Recruited 60+ students into the campus community
-- Increased student engagement by 35%
-- Conducted technical sessions for peers
+<details open>
+<summary><b>🧠 DataPilot AI: AI Business Intelligence Command Center</b></summary>
+<br/>
 
----
+Ask questions in plain English; get validated SQL, results, and a BI dashboard.
 
-## Certifications
-
-| Certification | Issuer |
-|---|---|
-| Python Data Associate | DataCamp |
-| Armenia LLM Summer School | Nebius AI |
-
----
-
-## GitHub Activity
+```mermaid
+flowchart LR
+    A[💬 Natural Language] --> B[🤖 LLM]
+    B --> C[🛡️ Secure SQL Validation]
+    C --> D[(🗄️ Database)]
+    D --> E[📊 BI Dashboard]
+    style A fill:#A855F7,color:#fff,stroke:none
+    style B fill:#8B5CF6,color:#fff,stroke:none
+    style C fill:#C026D3,color:#fff,stroke:none
+    style D fill:#7C3AED,color:#fff,stroke:none
+    style E fill:#A855F7,color:#fff,stroke:none
+```
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aliibtisam1001&show_icons=true&theme=default&hide_border=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aliibtisam1001&theme=default&hide_border=true" alt="GitHub streak"/>
+<img src="https://img.shields.io/badge/Security%20Tests-100%2F100-22c55e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL%20Attacks%20Blocked-34%2F34-ef4444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Query%20Speed-%3C50ms-f59e0b?style=for-the-badge"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
 </div>
 
----
+</details>
 
-## Beyond Code
+<details open>
+<summary><b>📊 Customer Churn Intelligence</b></summary>
+<br/>
 
-AI research · Photography · Travel · Data visualization · Continuous learning
+Churn prediction with SHAP explainability so retention teams can see *why* each customer is at risk.
 
----
+```mermaid
+flowchart LR
+    A[👥 Customer Data] --> B[⚙️ Feature Engineering]
+    B --> C[🌲 XGBoost]
+    C --> D[🔍 SHAP Explainability]
+    D --> E[📈 Prediction Dashboard]
+    style A fill:#A855F7,color:#fff,stroke:none
+    style B fill:#8B5CF6,color:#fff,stroke:none
+    style C fill:#C026D3,color:#fff,stroke:none
+    style D fill:#7C3AED,color:#fff,stroke:none
+    style E fill:#A855F7,color:#fff,stroke:none
+```
 
-## Get in Touch
+<div align="center">
 
-I am open to opportunities, collaborations, and conversations about machine learning and applied AI.
+<img src="https://img.shields.io/badge/Dataset-7%2C043%20Customers-3b82f6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ROC--AUC-0.88-22c55e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Recall-0.78-f59e0b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Model-XGBoost-A855F7?style=for-the-badge"/>
 
-- Portfolio: [aliibtisam.vercel.app](https://aliibtisam.vercel.app)
-- LinkedIn: [linkedin.com/in/aliibtisam1001](https://linkedin.com/in/aliibtisam1001)
-- Email: [aliibtisam1001@gmail.com](mailto:aliibtisam1001@gmail.com)
+</div>
+
+</details>
+
+<details open>
+<summary><b>🛒 AIU Market: Student Marketplace Platform</b></summary>
+<br/>
+
+A live full-stack marketplace built for the university community.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/%F0%9F%91%A5%20Users-70%2B-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%F0%9F%93%A6%20Listings-25%2B-C026D3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%F0%9F%9A%80%20Status-Live-22c55e?style=for-the-badge"/>
+
+</div>
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+<!-- ═══════════════ TECH ═══════════════ -->
+## 🪐 Tech Orbit
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql,sqlite,git,github,vscode,docker,tensorflow,pytorch,nextjs,supabase&perline=12" alt="Tech icons"/>
+
+</div>
+
+<details>
+<summary><b>🧠 AI &amp; Machine Learning</b></summary>
+<br/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-017CEE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Random%20Forest-228B22?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SHAP-FF0051?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+</details>
+
+<details>
+<summary><b>📊 Analytics &amp; Visualization</b></summary>
+<br/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+<!-- ═══════════════ STATS ═══════════════ -->
+## 📈 GitHub Command Center
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=aliibtisam1001&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliibtisam1001&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top languages"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aliibtisam1001&theme=radical&hide_border=true&background=0d1117" alt="GitHub streak"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=aliibtisam1001&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aliibtisam1001&theme=react-dark&hide_border=true&area=true&color=A855F7&line=C026D3&point=ffffff" width="100%" alt="Activity graph"/>
+
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/aliibtisam1001/aliibtisam1001/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+<!-- ═══════════════ EXPERIENCE ═══════════════ -->
+## 🎓 Experience &amp; Certifications
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 GeeksforGeeks Campus Ambassador
+
+- ✅ Recruited **60+ students**
+- ✅ Increased engagement by **35%**
+- ✅ Conducted technical sessions
+
+</td>
+<td width="50%" valign="top">
+
+### 🏆 Certifications
+
+- 🐍 **Python Data Associate**, DataCamp
+- 🤖 **Armenia LLM Summer School**, Nebius AI
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+<!-- ═══════════════ BEYOND CODE ═══════════════ -->
+## 🌌 Beyond Code
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/%F0%9F%A4%96%20AI%20Research-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%F0%9F%93%B8%20Photography-C026D3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%F0%9F%8C%8D%20Travelling-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%F0%9F%93%9A%20Learning-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%F0%9F%93%8A%20Visualization-D946EF?style=for-the-badge"/>
+
+</div>
+
+<!-- ═══════════════ CONNECT / FOOTER ═══════════════ -->
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://aliibtisam.vercel.app"><img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:aliibtisam1001@gmail.com"><img src="https://img.shields.io/badge/Email-C026D3?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/aliibtisam1001"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3500&pause=1200&color=C026D3&center=true&vCenter=true&width=600&lines=%22Data+is+raw+intelligence.%22;%22AI+is+how+we+refine+it.%22" alt="Quote"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=footer" width="100%" alt="footer"/>
+
+</div>
